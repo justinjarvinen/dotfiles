@@ -16,10 +16,12 @@ Plugin 'git://git.wincent.com/command-t.git'
 Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 Plugin 'ervandew/supertab'
 Plugin 'flazz/vim-colorschemes'
-Plugin 'pearofducks/ansible-vim'
+"Plugin 'pearofducks/ansible-vim'
 Plugin 'vim-pandoc/vim-rmarkdown'
 Plugin 'vim-pandoc/vim-pandoc-syntax'
 Plugin 'vim-R-plugin'
+Plugin 'sheerun/vim-polyglot'
+Plugin 'Valloric/YouCompleteMe'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
