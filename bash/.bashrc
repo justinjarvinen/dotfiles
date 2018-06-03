@@ -9,3 +9,5 @@ fi
 # export SYSTEMD_PAGER=
 
 # User specific aliases and functions
+alias v="/usr/bin/nvim"
+alias cai="/usr/bin/nvim ~/.config/i3/config"
